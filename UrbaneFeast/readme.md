@@ -42,4 +42,5 @@ Edit Prices: Update prices of individual dishes as needed, ensuring flexibility 
 Urbane Feast is designed with simplicity in mind. Navigate through the different sections to experience the menu management, reservation system, and food price functionalities. Interact with buttons, forms, and interactive elements to perform various tasks effortlessly.
 
 Best of luck
+
 UrbaneFeast 
